@@ -12,3 +12,10 @@ This project contains a Python implementation of **Dijkstra's Algorithm**, which
 1. Clone the repository:
    ```bash
    git clone https://github.com/harshitha-8/Dijkstra-s-Algorithm.git
+
+
+## Usage
+
+2. Navigate into the project directory:
+   ```bash
+   cd Dijkstra-s-Algorithm
