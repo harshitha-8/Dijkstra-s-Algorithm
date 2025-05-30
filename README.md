@@ -22,7 +22,7 @@ This project contains a Python implementation of **Dijkstra's Algorithm**, which
    ```bash
    python3 Dijkstra_Algorithm.py
 
-### Example usage
+## Example usage
 ```bash
 graph = {
     'A': {'B': 5, 'C': 1},
@@ -37,8 +37,8 @@ source = 'A'
 distances = dijkstra(graph, source)
 print(distances)
 
-##Requirements
+## Overview
 Python 3.x
 
-##Author
+## Author
 Harshitha Manjunatha
