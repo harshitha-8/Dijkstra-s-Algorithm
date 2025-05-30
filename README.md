@@ -36,9 +36,11 @@ This project contains a Python implementation of **Dijkstra's Algorithm**, which
    source = 'A'
    distances = dijkstra(graph, source)
    print(distances)
+```
 
 ## Requirements
-Python 3.x
+- Python 3.8+
+- requests
 
 ## Author
 Harshitha Manjunatha
